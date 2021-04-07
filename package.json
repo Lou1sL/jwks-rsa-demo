@@ -1,0 +1,16 @@
+{
+  "name": "jwks-rsa-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "exec": "node ./index.js"
+  },
+  "author": "bai",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "base64url": "^3.0.1",
+    "node-fetch": "^2.6.1",
+    "node-rsa": "^1.1.1"
+  }
+}
